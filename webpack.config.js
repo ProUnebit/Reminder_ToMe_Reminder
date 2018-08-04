@@ -4,12 +4,13 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 const devMode = process.env.NODE_ENV !== 'production';
 
-let conf = {
+module.exports = {
     entry: './src/index.js',
     output: {
         path: path.join(__dirname, './dist'),
         filename: 'index_bundle.js'
     },
+    devtool: devMode ? 'source-map' : 'eval-sourcemap',
     devServer: {
         overlay: {
             warnings: true,
@@ -31,11 +32,17 @@ let conf = {
                     loader: devMode ? 'style-loader' : MiniCssExtractPlugin.loader
                 }, {
                     loader: "css-loader"
-                }, {
-                    loader: "sass-loader"
                     // options: {
-                    //     includePaths: ["src/assets/img"]
+                    //     outputPath: 'css/',
+                    //     sourceMap: true
                     // }
+                }, {
+                    loader: "sass-loader",
+                    options: {
+                        // outputPath: 'styles/',
+                        sourceMap: true
+                        // includePaths: ["src/assets/img"]
+                    }
                 }]
             },
             {
@@ -57,11 +64,4 @@ let conf = {
          filename: "style.css"
         })
     ]
-}
-
-module.exports = (env, options) => {
-    let production = options.mode === 'production';
-    conf.devtool = production ? 'source-map' : 'eval-sourcemap'; // or false instead of 'source-map'
-
-    return conf;
 }
