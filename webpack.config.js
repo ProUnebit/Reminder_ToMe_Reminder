@@ -4,7 +4,7 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 
 const devMode = process.env.NODE_ENV !== 'production';
 
-module.exports = {
+let conf = {
     entry: './src/index.js',
     output: {
         path: path.join(__dirname, './dist'),
@@ -24,13 +24,10 @@ module.exports = {
                 use: [{
                     loader: devMode ? 'style-loader' : MiniCssExtractPlugin.loader
                 }, {
-                    loader: "css-loader", options: {
-                    sourceMap: true
-                    }
+                    loader: "css-loader"
                 }, {
                     loader: "sass-loader",
                     options: {
-                        sourceMap: true,
                         includePaths: ["src/assets/img"]
                     }
                 }]
@@ -45,4 +42,11 @@ module.exports = {
          filename: "style.css"
         })
     ]
+}
+
+module.exports = (env, options) => {
+    let production = options.mode === 'production';
+    conf.devtool = production ? 'source-map' : 'eval-sourcemap'; // or false instead of 'source-map'
+
+    return conf;
 }
