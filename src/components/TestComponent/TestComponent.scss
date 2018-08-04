@@ -6,10 +6,18 @@
 $text-color: $global-inter-orange;
 
 // |---STYLES---|
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background-color: $global-platinum;
 
     &__text {
         font-size: 30px;
-        text-align: center;
+    }
+
+    &__pic {
+        width: 350px;
+        height: 350px;
+        object-fit: cover;
     }
 }

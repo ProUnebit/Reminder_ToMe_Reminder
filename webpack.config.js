@@ -10,6 +10,12 @@ let conf = {
         path: path.join(__dirname, './dist'),
         filename: 'index_bundle.js'
     },
+    devServer: {
+        overlay: {
+            warnings: true,
+            errors: true
+        }
+    },
     module: {
         rules: [
             {
@@ -30,6 +36,12 @@ let conf = {
                     options: {
                         includePaths: ["src/assets/img"]
                     }
+                }]
+            },
+            {
+                test: /\.(png|jpg|gif)$/,
+                use: [{
+                    loader: 'file-loader'
                 }]
             }
         ]
