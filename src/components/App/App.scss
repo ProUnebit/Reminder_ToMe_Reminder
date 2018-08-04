@@ -1,0 +1,16 @@
+@import "../../scss_partials/params-g";
+@import "../../scss_partials/mixins";
+
+.app {
+// |---PARAMS-LOC---|
+$text-color: $global-inter-orange;
+
+// |---STYLES---|
+    border: 2px solid pink;
+
+    &__title {
+        font-size: 50px;
+        color: $text-color;
+    }
+
+}

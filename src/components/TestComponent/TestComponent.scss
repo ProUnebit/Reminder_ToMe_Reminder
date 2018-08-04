@@ -1,0 +1,15 @@
+@import "../../scss_partials/params-g";
+@import "../../scss_partials/mixins";
+
+.test-component {
+// |---PARAMS-LOC---|
+$text-color: $global-inter-orange;
+
+// |---STYLES---|
+    background-color: $global-platinum;
+
+    &__text {
+        font-size: 30px;
+        text-align: center;
+    }
+}
