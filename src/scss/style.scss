@@ -2,4 +2,8 @@ $color-1: pink;
 
 h1 {
     color: $color-1;
+
+    & span {
+        color: green;
+    }
 }
