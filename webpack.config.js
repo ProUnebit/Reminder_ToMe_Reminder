@@ -32,16 +32,19 @@ let conf = {
                 }, {
                     loader: "css-loader"
                 }, {
-                    loader: "sass-loader",
-                    options: {
-                        includePaths: ["src/assets/img"]
-                    }
+                    loader: "sass-loader"
+                    // options: {
+                    //     includePaths: ["src/assets/img"]
+                    // }
                 }]
             },
             {
                 test: /\.(png|jpg|gif)$/,
                 use: [{
-                    loader: 'file-loader'
+                    loader: 'file-loader',
+                    options: {
+                        outputPath: 'img/'
+                    }
                 }]
             }
         ]
