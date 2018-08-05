@@ -1,3 +1,3 @@
 export function helper() {
-    console.log('I\'m a helper file!');
+    return 'I\'m a helper file!';
 }

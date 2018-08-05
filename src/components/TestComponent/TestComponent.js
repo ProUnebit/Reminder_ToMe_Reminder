@@ -6,7 +6,7 @@ import { helper } from '../../helper';
 class TestComponent extends React.Component {
 
     componentDidMount() {
-        helper();
+        console.log(helper(), 'number 2');
     }
 
     render () {
