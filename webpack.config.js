@@ -5,10 +5,13 @@ const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const devMode = process.env.NODE_ENV !== 'production';
 
 module.exports = {
-    entry: './src/index.js',
+    entry: {
+        app: './src/index.js',
+        helper: './src/helper.js'
+    },
     output: {
         path: path.join(__dirname, './dist'),
-        filename: 'index_bundle.js'
+        filename: '[name].js'
     },
     devtool: devMode ? 'source-map' : 'eval-sourcemap',
     devServer: {
@@ -58,10 +61,12 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            template: './src/index.html'
+            template: './src/index.html',
+            hash: true
         }),
         new MiniCssExtractPlugin({
-         filename: "style.css"
+            // filename: devMode ? '[name].css' : '[name].[hash].css',
+            // chunkFilename: devMode ? '[id].css' : '[id].[hash].css',
         })
     ]
 }

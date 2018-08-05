@@ -1,8 +1,14 @@
 import React from 'react';
 import './TestComponent.scss';
 import testPic from '../../assets/img/27NSh.jpg';
+import { helper } from '../../helper';
 
 class TestComponent extends React.Component {
+
+    componentDidMount() {
+        helper();
+    }
+
     render () {
         return (
             <div className="test-component">
