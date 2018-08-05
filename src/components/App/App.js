@@ -12,8 +12,17 @@ class App extends React.Component {
     render () {
         return (
             <div className="app">
-                <h1 className="app__title">Hello, <span>guys!</span></h1>
-                <TestComponent />
+                <h1 className="app__title">Reminder_ToMe_Reminder</h1>
+                <form className="app__form">
+                    <input
+                        className="app__form-control"
+                        placeholder="I have to..."
+                        />
+                    <button
+                        className="app__form-button"
+                        >Add Reminder
+                    </button>
+                </form>
             </div>
         )
     }

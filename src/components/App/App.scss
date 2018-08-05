@@ -6,11 +6,23 @@
 $text-color: $global-inter-orange;
 
 // |---STYLES---|
-    border: 2px solid pink;
+
 
     &__title {
-        font-size: 50px;
+        font-size: 40px;
         color: $text-color;
     }
 
+    &__form {
+        border: 2px pink solid;
+        padding: 10px;
+    }
+
+    &__form-control {
+
+    }
+
+    &__form-button {
+
+    }
 }
