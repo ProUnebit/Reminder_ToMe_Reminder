@@ -4,9 +4,14 @@ import TestComponent from '../TestComponent/TestComponent';
 import { helper } from '../../helper';
 
 class App extends React.Component {
+    constructor(props)	{
+        super(props)
+        this.input = React.createRef()
+    }
 
     componentDidMount() {
         console.log(helper(), 'number 1');
+        this.input.current.focus()
     }
 
     render () {
@@ -17,6 +22,8 @@ class App extends React.Component {
                     <input
                         className="app__form-control"
                         placeholder="I have to..."
+                    	defaultValue=''
+                    	ref={this.input}
                         />
                     <button
                         className="app__form-button"
