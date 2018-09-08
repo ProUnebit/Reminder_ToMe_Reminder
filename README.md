@@ -1,3 +1,1 @@
-Hello!
-
-Test project, React + Redux (it isn't finished)
+**Test project, React + Redux (it isn't finished)**
