@@ -2,7 +2,7 @@
 "data": [
 {
 "id": 2,
-"logo": "/promocards/frontend/web/uploads/6edrcsIs5qDVq2HDxv1rul6YaxP_p13S.png",
+"logo": "https://cross.m24.ru/promocards/frontend/web/uploads/6edrcsIs5qDVq2HDxv1rul6YaxP_p13S.png",
 "category": {
 "id": 3,
 "title": "рестораны"
@@ -21,15 +21,15 @@
 "inst": "https://www.instagram.com/leffecafemoscow/"
 },
 "images": [
-"/promocards/frontend/web/uploads/rzoSJfFwJl6y-Y4GhwrjMrEBiL9l-9_W.jpg",
-"/promocards/frontend/web/uploads/3wAgNc5d9vaIx9SrLo2NIRAUjZPUTGWB.jpg",
-"/promocards/frontend/web/uploads/IraKQ7S8111Y4mspYiCnk-S6MejjiZy0.jpg",
-"/promocards/frontend/web/uploads/eMi1UOwfGJ4ceF5vKr5XXszRNJ2guPDA.jpg"
+"https://cross.m24.ru/promocards/frontend/web/uploads/rzoSJfFwJl6y-Y4GhwrjMrEBiL9l-9_W.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/3wAgNc5d9vaIx9SrLo2NIRAUjZPUTGWB.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/IraKQ7S8111Y4mspYiCnk-S6MejjiZy0.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/eMi1UOwfGJ4ceF5vKr5XXszRNJ2guPDA.jpg"
 ]
 },
 {
 "id": 3,
-"logo": "/promocards/frontend/web/uploads/Q5PwrvPgojITQRA4vmF0LsF-iN5Hp1Zg.jpg",
+"logo": "https://cross.m24.ru/promocards/frontend/web/uploads/Q5PwrvPgojITQRA4vmF0LsF-iN5Hp1Zg.jpg",
 "category": {
 "id": 3,
 "title": "рестораны"
@@ -48,14 +48,14 @@
 "inst": "https://www.instagram.com/sapiens_est"
 },
 "images": [
-"/promocards/frontend/web/uploads/Pt5LipPNHOEMnLsFbPfWoODzoxIa3w-3.jpg",
-"/promocards/frontend/web/uploads/mqp-d7F4sUu8lmTHoKcwW8L5TlQtFkwn.jpg",
-"/promocards/frontend/web/uploads/WrYst1IlpeAtMZWTFerQpgpuTmat_3pN.jpg"
+"https://cross.m24.ru/promocards/frontend/web/uploads/Pt5LipPNHOEMnLsFbPfWoODzoxIa3w-3.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/mqp-d7F4sUu8lmTHoKcwW8L5TlQtFkwn.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/WrYst1IlpeAtMZWTFerQpgpuTmat_3pN.jpg",
 ]
 },
 {
 "id": 4,
-"logo": "/promocards/frontend/web/uploads/HviARwgDa17KB5OpB9ldSkkru4SanNZB.png",
+"logo": "https://cross.m24.ru/promocards/frontend/web/uploads/HviARwgDa17KB5OpB9ldSkkru4SanNZB.png",
 "category": {
 "id": 3,
 "title": "рестораны"
@@ -74,12 +74,12 @@
 "inst": "https://www.instagram.com/lambicrestaurant/"
 },
 "images": [
-"/promocards/frontend/web/uploads/tjbIbQ11fM3WvEn8WYOeAhOJLLxcjpbQ.jpg",
-"/promocards/frontend/web/uploads/lOBObr3WeODcDKebg5n1TvnjFT8DosIJ.jpg",
-"/promocards/frontend/web/uploads/fEnqvgn2dUYj9TFrAKXrlGJxwMCfsQ9n.jpg",
-"/promocards/frontend/web/uploads/_FTjxN2Kqj_hhl-3cQjJfgqCt2-cpGWb.jpg",
-"/promocards/frontend/web/uploads/lXMopt36MxD0D0luk4zU3EM1LHDh0zs4.jpg",
-"/promocards/frontend/web/uploads/drAV-PKnqcf1bICm2o-1stUTl4A8i6nt.jpg"
+"https://cross.m24.ru/promocards/frontend/web/uploads/tjbIbQ11fM3WvEn8WYOeAhOJLLxcjpbQ.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/lOBObr3WeODcDKebg5n1TvnjFT8DosIJ.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/fEnqvgn2dUYj9TFrAKXrlGJxwMCfsQ9n.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/_FTjxN2Kqj_hhl-3cQjJfgqCt2-cpGWb.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/lXMopt36MxD0D0luk4zU3EM1LHDh0zs4.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/drAV-PKnqcf1bICm2o-1stUTl4A8i6nt.jpg"
 ]
 }
 ],
