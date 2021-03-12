@@ -81,6 +81,88 @@
 "https://cross.m24.ru/promocards/frontend/web/uploads/lXMopt36MxD0D0luk4zU3EM1LHDh0zs4.jpg",
 "https://cross.m24.ru/promocards/frontend/web/uploads/drAV-PKnqcf1bICm2o-1stUTl4A8i6nt.jpg"
 ]
+},
+  {
+"id": 3,
+"logo": "https://cross.m24.ru/promocards/frontend/web/uploads/Q5PwrvPgojITQRA4vmF0LsF-iN5Hp1Zg.jpg",
+"category": {
+"id": 3,
+"title": "рестораны"
+},
+"title": "Sapiens Est",
+"url": "https://sapiens-est.ru/",
+"short": "Sapiens Est – это отличное место для романтического свидания, обеда с деловым партнером, дружеских посиделок. \r\nЕсли вы любитель friendly - сервиса, вкусной еды и авторских коктейлей заходите в кафе Sapiens Est на Пушечной улице.\r\nВас порадуют яркий и модный интерьер, интересные дизайнерские решения, удивительная теплая и доброжелательная атмосфера.\r\nЗдесь подают блюда европейской, паназиатской и испанской кухни. Великолепный шеф-повар и команда его помощников готовят по традиционным и авторским рецептам. В Sapiens Est всегда в наличии свежайшие и качественные продукты. Стоит попробовать фирменный тыквенный суп, утку магре со сливой, лосося на гриле, баклажаны в малазийском стиле и многое другое. Здесь всегда найдут, чем удивить даже искушенных гурманов, особого внимания и восхищения заслуживает оригинальная подача блюд.\r\nВ баре можно заказать авторские коктейли, красные или белые вина из Франции, Италии, Новой Зеландии, Австрии, Германи.\r\nПо пятницам и субботам в Sapiens Est вы сможете от души повеселиться на вечеринке с шикарной музыкой и зажигательными танцами. Хорошо подготовленный, тактичный, радушный персонал старается выполнять пожелания клиентов, поддерживает их позитивный настрой.\r\n",
+"full": "15% скидка при оплате картой, 20% скидка при оплате наличными\r\n",
+"coords": "55.760601, 37.622369",
+"adress": "Пушечная улица, д. 4, стр. 1, Москва",
+"social": {
+"vk": null,
+"fb": null,
+"tw": null,
+"youtube": null,
+"inst": "https://www.instagram.com/sapiens_est"
+},
+"images": [
+"https://cross.m24.ru/promocards/frontend/web/uploads/Pt5LipPNHOEMnLsFbPfWoODzoxIa3w-3.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/mqp-d7F4sUu8lmTHoKcwW8L5TlQtFkwn.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/WrYst1IlpeAtMZWTFerQpgpuTmat_3pN.jpg"
+]
+},
+  {
+"id": 4,
+"logo": "https://cross.m24.ru/promocards/frontend/web/uploads/HviARwgDa17KB5OpB9ldSkkru4SanNZB.png",
+"category": {
+"id": 3,
+"title": "рестораны"
+},
+"title": "Lambic Brasserie в Москва-Сити",
+"url": "https://13.lambic.ru/",
+"short": "Lambic Brasserie в Москва-Сити - это 13 ресторан популярной пивной сети. Находится на первом этаже Башни на набережной, лобби, вход В. В меню — более 200 сортов бельгийского пива и блюда европейской кухни. Lambic в Москва-Сити — это атмосферное пространство на 100 посадочных с отдельным кабинетом на 8 персон, где удобно проводить бизнес-завтраки, встречи и переговоры.",
+"full": "Скидка 24% либо комплимент - знаменитая картофельная вафля с начинкой на выбор \r\n",
+"coords": "55.746820588067706, 37.5368124422274",
+"adress": "Москва, Пресненская набережная 10, лобби, вход В. Москва-Сити, Башня на набережной, 1 этаж.",
+"social": {
+"vk": null,
+"fb": null,
+"tw": null,
+"youtube": null,
+"inst": "https://www.instagram.com/lambicrestaurant/"
+},
+"images": [
+"https://cross.m24.ru/promocards/frontend/web/uploads/tjbIbQ11fM3WvEn8WYOeAhOJLLxcjpbQ.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/lOBObr3WeODcDKebg5n1TvnjFT8DosIJ.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/fEnqvgn2dUYj9TFrAKXrlGJxwMCfsQ9n.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/_FTjxN2Kqj_hhl-3cQjJfgqCt2-cpGWb.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/lXMopt36MxD0D0luk4zU3EM1LHDh0zs4.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/drAV-PKnqcf1bICm2o-1stUTl4A8i6nt.jpg"
+]
+},
+  {
+"id": 2,
+"logo": "https://cross.m24.ru/promocards/frontend/web/uploads/6edrcsIs5qDVq2HDxv1rul6YaxP_p13S.png",
+"category": {
+"id": 3,
+"title": "рестораны"
+},
+"title": "Leffe Café",
+"url": "http://leffecafe.com/",
+"short": "Leffe cafe - первая фирменная бельгийская брассерия в Москве с обширной пивной и винной картой.\r\nУникальная система налива пива Craftap является не только главным техническим преимуществом заведения, но и его дизайнерской «фишкой».\r\nБезусловно, гастрономические напитки предполагают серьёзный подход к кухне.\r\nНеординарное меню изобилует авторскими находками. \r\nБольшой выбор горячих и холодных закусок, а так же разнообразных салатов удовлетворит желающих перекусить. \r\nДля любителей плотно подкрепиться меню содержит большой раздел горячих блюд.\r\nLeffe cafe – это уникальная атмосфера, напоминающая о манящих европейских путешествиях, идеальное место для дружеских и романтических встреч.\r\n",
+"full": "Для участников программы предусмотрена скидка в размере -10% + комплимент от заведения ",
+"coords": "55.76526941116231, 37.56793082737293",
+"adress": "Расторгуевский пер., 3А, Москва",
+"social": {
+"vk": null,
+"fb": "https://www.facebook.com/Leffe-Cafe-441043016433037/",
+"tw": null,
+"youtube": null,
+"inst": "https://www.instagram.com/leffecafemoscow/"
+},
+"images": [
+"https://cross.m24.ru/promocards/frontend/web/uploads/rzoSJfFwJl6y-Y4GhwrjMrEBiL9l-9_W.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/3wAgNc5d9vaIx9SrLo2NIRAUjZPUTGWB.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/IraKQ7S8111Y4mspYiCnk-S6MejjiZy0.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/eMi1UOwfGJ4ceF5vKr5XXszRNJ2guPDA.jpg"
+]
 }
 ],
 "pagination": {
