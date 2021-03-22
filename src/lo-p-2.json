@@ -2,7 +2,7 @@
 "data": [
 {
 "id": 2,
-"logo": "https://promo.m24.ru//adm/uploads/6edrcsIs5qDVq2HDxv1rul6YaxP_p13S.png",
+"logo": "https://cross.m24.ru/promocards/frontend/web/uploads/6edrcsIs5qDVq2HDxv1rul6YaxP_p13S.png",
 "category": {
 "id": 3,
 "title": "рестораны"
@@ -14,7 +14,7 @@
 "full": "Cкидка 10% \r\n+ комплимент от заведения ",
 "coords": "55.76526941116231, 37.56793082737293",
 "adress": "Расторгуевский пер., 3А, Москва",
-"additional_address": [],
+"additional_address": [{"title": "ул. Крымский Вал, 4\r\nул. Сущёвский Вал, 22", "coords": null}, {"title": "Москва, Пресненская набережная 10, лобби, вход В. Москва-Сити, Башня на набережной, 1 этаж.", "coords": null}, {"title": "ул. Крымский Вал, 4\r\nул. Сущёвский Вал, 22", "coords": null}, {"title": "ул. Крымский Вал, 4\r\nул. Сущёвский Вал, 22", "coords": null}],
 "social": {
 "vk": null,
 "fb": "https://www.facebook.com/Leffe-Cafe-441043016433037/",
@@ -23,15 +23,15 @@
 "inst": "https://www.instagram.com/leffecafemoscow/"
 },
 "images": [
-"https://promo.m24.ru//adm/uploads/rzoSJfFwJl6y-Y4GhwrjMrEBiL9l-9_W.jpg",
-"https://promo.m24.ru//adm/uploads/3wAgNc5d9vaIx9SrLo2NIRAUjZPUTGWB.jpg",
-"https://promo.m24.ru//adm/uploads/IraKQ7S8111Y4mspYiCnk-S6MejjiZy0.jpg",
-"https://promo.m24.ru//adm/uploads/eMi1UOwfGJ4ceF5vKr5XXszRNJ2guPDA.jpg"
+"https://cross.m24.ru/promocards/frontend/web/uploads/rzoSJfFwJl6y-Y4GhwrjMrEBiL9l-9_W.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/3wAgNc5d9vaIx9SrLo2NIRAUjZPUTGWB.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/IraKQ7S8111Y4mspYiCnk-S6MejjiZy0.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/eMi1UOwfGJ4ceF5vKr5XXszRNJ2guPDA.jpg"
 ]
 },
 {
 "id": 3,
-"logo": "https://promo.m24.ru//adm/uploads/Q5PwrvPgojITQRA4vmF0LsF-iN5Hp1Zg.jpg",
+"logo": "https://cross.m24.ru/promocards/frontend/web/uploads/Q5PwrvPgojITQRA4vmF0LsF-iN5Hp1Zg.jpg",
 "category": {
 "id": 3,
 "title": "рестораны"
@@ -52,14 +52,14 @@
 "inst": "https://www.instagram.com/sapiens_est"
 },
 "images": [
-"https://promo.m24.ru//adm/uploads/Pt5LipPNHOEMnLsFbPfWoODzoxIa3w-3.jpg",
-"https://promo.m24.ru//adm/uploads/mqp-d7F4sUu8lmTHoKcwW8L5TlQtFkwn.jpg",
-"https://promo.m24.ru//adm/uploads/WrYst1IlpeAtMZWTFerQpgpuTmat_3pN.jpg"
+"https://cross.m24.ru/promocards/frontend/web/uploads/Pt5LipPNHOEMnLsFbPfWoODzoxIa3w-3.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/mqp-d7F4sUu8lmTHoKcwW8L5TlQtFkwn.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/WrYst1IlpeAtMZWTFerQpgpuTmat_3pN.jpg"
 ]
 },
 {
 "id": 4,
-"logo": "https://promo.m24.ru//adm/uploads/HviARwgDa17KB5OpB9ldSkkru4SanNZB.png",
+"logo": "https://cross.m24.ru/promocards/frontend/web/uploads/HviARwgDa17KB5OpB9ldSkkru4SanNZB.png",
 "category": {
 "id": 3,
 "title": "рестораны"
@@ -80,17 +80,17 @@
 "inst": "https://www.instagram.com/lambicrestaurant/"
 },
 "images": [
-"https://promo.m24.ru//adm/uploads/tjbIbQ11fM3WvEn8WYOeAhOJLLxcjpbQ.jpg",
-"https://promo.m24.ru//adm/uploads/lOBObr3WeODcDKebg5n1TvnjFT8DosIJ.jpg",
-"https://promo.m24.ru//adm/uploads/fEnqvgn2dUYj9TFrAKXrlGJxwMCfsQ9n.jpg",
-"https://promo.m24.ru//adm/uploads/_FTjxN2Kqj_hhl-3cQjJfgqCt2-cpGWb.jpg",
-"https://promo.m24.ru//adm/uploads/lXMopt36MxD0D0luk4zU3EM1LHDh0zs4.jpg",
-"https://promo.m24.ru//adm/uploads/drAV-PKnqcf1bICm2o-1stUTl4A8i6nt.jpg"
+"https://cross.m24.ru/promocards/frontend/web/uploads/tjbIbQ11fM3WvEn8WYOeAhOJLLxcjpbQ.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/lOBObr3WeODcDKebg5n1TvnjFT8DosIJ.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/fEnqvgn2dUYj9TFrAKXrlGJxwMCfsQ9n.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/_FTjxN2Kqj_hhl-3cQjJfgqCt2-cpGWb.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/lXMopt36MxD0D0luk4zU3EM1LHDh0zs4.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/drAV-PKnqcf1bICm2o-1stUTl4A8i6nt.jpg"
 ]
 },
 {
 "id": 5,
-"logo": "https://promo.m24.ru//adm/uploads/-fCYHRDt-ylpwsK21IpaqYWppvHaXkdt.png",
+"logo": "https://cross.m24.ru/promocards/frontend/web/uploads/Q5PwrvPgojITQRA4vmF0LsF-iN5Hp1Zg.jpg",
 "category": {
 "id": 4,
 "title": "цветы"
@@ -111,15 +111,14 @@
 "inst": "https://www.instagram.com/moscvettorg_moscow/"
 },
 "images": [
-"https://promo.m24.ru//adm/uploads/d-NeuQuQfvCrp8MLb2GvpmatBgbicmNe.jpg",
-"https://promo.m24.ru//adm/uploads/mWo4AnclDiIQFpjU3UDf7o1xY1Mvg2tI.jpg",
-"https://promo.m24.ru//adm/uploads/I2tEL26omiF7HnxYKmCWc_OwS-z58ci0.jpg",
-"https://promo.m24.ru//adm/uploads/0eyeq-v3kaeGuULuWAOr2CzjU_lYAc98.jpg"
+"https://cross.m24.ru/promocards/frontend/web/uploads/Pt5LipPNHOEMnLsFbPfWoODzoxIa3w-3.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/mqp-d7F4sUu8lmTHoKcwW8L5TlQtFkwn.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/WrYst1IlpeAtMZWTFerQpgpuTmat_3pN.jpg"
 ]
 },
 {
 "id": 6,
-"logo": "https://promo.m24.ru//adm/uploads/0Aj7aCb5OWIrswZDmrV0JOBaAr2_nPFx.png",
+"logo": "https://cross.m24.ru/promocards/frontend/web/uploads/HviARwgDa17KB5OpB9ldSkkru4SanNZB.png",
 "category": {
 "id": 5,
 "title": "магазины"
@@ -140,17 +139,17 @@
 "inst": "https://www.instagram.com/lavkalavka/"
 },
 "images": [
-"https://promo.m24.ru//adm/uploads/A9w6aXyMr9TIluRKsV7X998cIk99hLLy.jpg",
-"https://promo.m24.ru//adm/uploads/9BmuQsjjJUkOqf4GQX8NnDdefq8uiLDq.jpg",
-"https://promo.m24.ru//adm/uploads/PGEJ_-BIa9tKoBuoonCDWHGUD3TXFMl5.jpg",
-"https://promo.m24.ru//adm/uploads/EJZvIM2QQP6uK1DeDy2RAqbwtWQWpPmz.JPG",
-"https://promo.m24.ru//adm/uploads/XWI4Sh7TFHG0MyH7VFMGyZi1v_HXAVat.jpg",
-"https://promo.m24.ru//adm/uploads/VzDX1dW6gEsLV69UNex52dfS_zz5N_m7.jpg"
+"https://cross.m24.ru/promocards/frontend/web/uploads/tjbIbQ11fM3WvEn8WYOeAhOJLLxcjpbQ.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/lOBObr3WeODcDKebg5n1TvnjFT8DosIJ.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/fEnqvgn2dUYj9TFrAKXrlGJxwMCfsQ9n.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/_FTjxN2Kqj_hhl-3cQjJfgqCt2-cpGWb.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/lXMopt36MxD0D0luk4zU3EM1LHDh0zs4.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/drAV-PKnqcf1bICm2o-1stUTl4A8i6nt.jpg"
 ]
 },
 {
 "id": 7,
-"logo": "https://promo.m24.ru//adm/uploads/WkLBIbWyzxfjE2S_tvJZJSuUYI9mmgD4.jpg",
+"logo": "https://cross.m24.ru/promocards/frontend/web/uploads/6edrcsIs5qDVq2HDxv1rul6YaxP_p13S.png",
 "category": {
 "id": 6,
 "title": "красота и здоровье"
@@ -171,8 +170,10 @@
 "inst": "https://www.instagram.com/apaches_moscow/"
 },
 "images": [
-"https://promo.m24.ru//adm/uploads/4xLQzMl7GR3qYMH7y-LoRKSQ9jY6-_TG.jpg",
-"https://promo.m24.ru//adm/uploads/m-xydfB1qxyU9vyJYnIl_b_41qDbEcdN.jpg"
+"https://cross.m24.ru/promocards/frontend/web/uploads/rzoSJfFwJl6y-Y4GhwrjMrEBiL9l-9_W.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/3wAgNc5d9vaIx9SrLo2NIRAUjZPUTGWB.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/IraKQ7S8111Y4mspYiCnk-S6MejjiZy0.jpg",
+"https://cross.m24.ru/promocards/frontend/web/uploads/eMi1UOwfGJ4ceF5vKr5XXszRNJ2guPDA.jpg"
 ]
 }
 ],
