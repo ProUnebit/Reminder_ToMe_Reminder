@@ -2,19 +2,26 @@
 "data": [
 {
 "id": 2,
-"logo": "https://cross.m24.ru/promocards/frontend/web/uploads/6edrcsIs5qDVq2HDxv1rul6YaxP_p13S.png",
+"logo": "https://promo.m24.ru/adm/uploads/6edrcsIs5qDVq2HDxv1rul6YaxP_p13S.png",
 "category": {
 "id": 3,
-"title": "рестораны"
+"title": "рестораны",
+"status": 1,
+"full": null,
+"logo": null
 },
 "title": "Leffe Café",
 "until_action": null,
+"action_btn": null,
 "url": "http://leffecafe.com/",
 "short": "Leffe cafe - первая фирменная бельгийская брассерия в Москве с обширной пивной и винной картой.\r\nУникальная система налива пива Craftap является не только главным техническим преимуществом заведения, но и его дизайнерской «фишкой».\r\nБезусловно, гастрономические напитки предполагают серьёзный подход к кухне.\r\nНеординарное меню изобилует авторскими находками. \r\nБольшой выбор горячих и холодных закусок, а так же разнообразных салатов удовлетворит желающих перекусить. \r\nДля любителей плотно подкрепиться меню содержит большой раздел горячих блюд.\r\nLeffe cafe – это уникальная атмосфера, напоминающая о манящих европейских путешествиях, идеальное место для дружеских и романтических встреч.\r\n",
 "full": "Cкидка 10% \r\n+ комплимент от заведения ",
-"coords": "55.76526941116231, 37.56793082737293",
-"adress": "Расторгуевский пер., 3А, Москва",
-"additional_address": [{"title": "ул. Крымский Вал, 4\r\nул. Сущёвский Вал, 22", "coords": null}, {"title": "Москва, Пресненская набережная 10, лобби, вход В. Москва-Сити, Башня на набережной, 1 этаж.", "coords": null}, {"title": "ул. Крымский Вал, 4\r\nул. Сущёвский Вал, 22", "coords": null}, {"title": "ул. Крымский Вал, 4\r\nул. Сущёвский Вал, 22", "coords": null}],
+"coords": [
+"55.76526941116231",
+"37.56793082737293"
+],
+"adress": "Москва, Расторгуевский пер., 3А",
+"additional_address": [],
 "social": {
 "vk": null,
 "fb": "https://www.facebook.com/Leffe-Cafe-441043016433037/",
@@ -23,26 +30,33 @@
 "inst": "https://www.instagram.com/leffecafemoscow/"
 },
 "images": [
-"https://cross.m24.ru/promocards/frontend/web/uploads/rzoSJfFwJl6y-Y4GhwrjMrEBiL9l-9_W.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/3wAgNc5d9vaIx9SrLo2NIRAUjZPUTGWB.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/IraKQ7S8111Y4mspYiCnk-S6MejjiZy0.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/eMi1UOwfGJ4ceF5vKr5XXszRNJ2guPDA.jpg"
+"https://promo.m24.ru/adm/uploads/rzoSJfFwJl6y-Y4GhwrjMrEBiL9l-9_W.jpg",
+"https://promo.m24.ru/adm/uploads/3wAgNc5d9vaIx9SrLo2NIRAUjZPUTGWB.jpg",
+"https://promo.m24.ru/adm/uploads/IraKQ7S8111Y4mspYiCnk-S6MejjiZy0.jpg",
+"https://promo.m24.ru/adm/uploads/eMi1UOwfGJ4ceF5vKr5XXszRNJ2guPDA.jpg"
 ]
 },
 {
 "id": 3,
-"logo": "https://cross.m24.ru/promocards/frontend/web/uploads/Q5PwrvPgojITQRA4vmF0LsF-iN5Hp1Zg.jpg",
+"logo": "https://promo.m24.ru/adm/uploads/Q5PwrvPgojITQRA4vmF0LsF-iN5Hp1Zg.jpg",
 "category": {
 "id": 3,
-"title": "рестораны"
+"title": "рестораны",
+"status": 1,
+"full": null,
+"logo": null
 },
 "title": "Sapiens Est",
 "until_action": null,
+"action_btn": null,
 "url": "https://sapiens-est.ru/",
 "short": "Sapiens Est – это отличное место для романтического свидания, обеда с деловым партнером, дружеских посиделок. \r\nЕсли вы любитель friendly - сервиса, вкусной еды и авторских коктейлей заходите в кафе Sapiens Est на Пушечной улице.\r\nВас порадуют яркий и модный интерьер, интересные дизайнерские решения, удивительная теплая и доброжелательная атмосфера.\r\nЗдесь подают блюда европейской, паназиатской и испанской кухни. Великолепный шеф-повар и команда его помощников готовят по традиционным и авторским рецептам. В Sapiens Est всегда в наличии свежайшие и качественные продукты. Стоит попробовать фирменный тыквенный суп, утку магре со сливой, лосося на гриле, баклажаны в малазийском стиле и многое другое. Здесь всегда найдут, чем удивить даже искушенных гурманов, особого внимания и восхищения заслуживает оригинальная подача блюд.\r\nВ баре можно заказать авторские коктейли, красные или белые вина из Франции, Италии, Новой Зеландии, Австрии, Германи.\r\nПо пятницам и субботам в Sapiens Est вы сможете от души повеселиться на вечеринке с шикарной музыкой и зажигательными танцами. Хорошо подготовленный, тактичный, радушный персонал старается выполнять пожелания клиентов, поддерживает их позитивный настрой.\r\n",
 "full": "Скидка при оплате картой 15% \r\nСкидка при оплате наличными 20%\r\n",
-"coords": "55.760601, 37.622369",
-"adress": "Пушечная улица, д. 4, стр. 1, Москва",
+"coords": [
+"55.760601",
+"37.622369"
+],
+"adress": "Москва, Пушечная улица, д. 4, стр. 1",
 "additional_address": [],
 "social": {
 "vk": null,
@@ -52,24 +66,31 @@
 "inst": "https://www.instagram.com/sapiens_est"
 },
 "images": [
-"https://cross.m24.ru/promocards/frontend/web/uploads/Pt5LipPNHOEMnLsFbPfWoODzoxIa3w-3.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/mqp-d7F4sUu8lmTHoKcwW8L5TlQtFkwn.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/WrYst1IlpeAtMZWTFerQpgpuTmat_3pN.jpg"
+"https://promo.m24.ru/adm/uploads/Pt5LipPNHOEMnLsFbPfWoODzoxIa3w-3.jpg",
+"https://promo.m24.ru/adm/uploads/mqp-d7F4sUu8lmTHoKcwW8L5TlQtFkwn.jpg",
+"https://promo.m24.ru/adm/uploads/WrYst1IlpeAtMZWTFerQpgpuTmat_3pN.jpg"
 ]
 },
 {
 "id": 4,
-"logo": "https://cross.m24.ru/promocards/frontend/web/uploads/HviARwgDa17KB5OpB9ldSkkru4SanNZB.png",
+"logo": "https://promo.m24.ru/adm/uploads/HviARwgDa17KB5OpB9ldSkkru4SanNZB.png",
 "category": {
 "id": 3,
-"title": "рестораны"
+"title": "рестораны",
+"status": 1,
+"full": null,
+"logo": null
 },
 "title": "Lambic Brasserie в Москва-Сити",
 "until_action": null,
+"action_btn": null,
 "url": "https://13.lambic.ru/",
 "short": "Lambic Brasserie в Москва-Сити - это 13 ресторан популярной пивной сети. Находится на первом этаже Башни на набережной, лобби, вход В. В меню — более 200 сортов бельгийского пива и блюда европейской кухни. Lambic в Москва-Сити — это атмосферное пространство на 100 посадочных с отдельным кабинетом на 8 персон, где удобно проводить бизнес-завтраки, встречи и переговоры.",
 "full": "Скидка 24% либо комплимент — знаменитая картофельная вафля с начинкой на выбор \r\n",
-"coords": "55.746820588067706, 37.5368124422274",
+"coords": [
+"55.746820588067706",
+"37.5368124422274"
+],
 "adress": "Москва, Пресненская набережная 10, лобби, вход В. Москва-Сити, Башня на набережной, 1 этаж.",
 "additional_address": [],
 "social": {
@@ -80,27 +101,33 @@
 "inst": "https://www.instagram.com/lambicrestaurant/"
 },
 "images": [
-"https://cross.m24.ru/promocards/frontend/web/uploads/tjbIbQ11fM3WvEn8WYOeAhOJLLxcjpbQ.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/lOBObr3WeODcDKebg5n1TvnjFT8DosIJ.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/fEnqvgn2dUYj9TFrAKXrlGJxwMCfsQ9n.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/_FTjxN2Kqj_hhl-3cQjJfgqCt2-cpGWb.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/lXMopt36MxD0D0luk4zU3EM1LHDh0zs4.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/drAV-PKnqcf1bICm2o-1stUTl4A8i6nt.jpg"
+"https://promo.m24.ru/adm/uploads/tjbIbQ11fM3WvEn8WYOeAhOJLLxcjpbQ.jpg",
+"https://promo.m24.ru/adm/uploads/lOBObr3WeODcDKebg5n1TvnjFT8DosIJ.jpg",
+"https://promo.m24.ru/adm/uploads/fEnqvgn2dUYj9TFrAKXrlGJxwMCfsQ9n.jpg",
+"https://promo.m24.ru/adm/uploads/_FTjxN2Kqj_hhl-3cQjJfgqCt2-cpGWb.jpg",
+"https://promo.m24.ru/adm/uploads/lXMopt36MxD0D0luk4zU3EM1LHDh0zs4.jpg",
+"https://promo.m24.ru/adm/uploads/drAV-PKnqcf1bICm2o-1stUTl4A8i6nt.jpg"
 ]
 },
 {
 "id": 5,
-"logo": "https://cross.m24.ru/promocards/frontend/web/uploads/Q5PwrvPgojITQRA4vmF0LsF-iN5Hp1Zg.jpg",
+"logo": "https://promo.m24.ru/adm/uploads/bkV-nUxXczWfQ_WZQG1-2cUJjZPrj6po.png",
 "category": {
 "id": 4,
-"title": "цветы"
+"title": "цветы",
+"status": 1,
+"full": null,
+"logo": null
 },
 "title": "Московская цветочная торговая компания",
 "until_action": "до 31.12.2021",
+"action_btn": null,
 "url": "https://www.moscvettorg.com/ ",
 "short": "«Мосцветторг» существует на рынке Москвы с 2008 года и успешно удерживает лидирующие позиции. Приоритетом сети является широкий ассортимент и качество цветка.\r\nООО «Мосцветторгком» охватывает как сеть цветочных магазинов по Москве и Московской области, так и интернет-сервис по доставке цветов круглосуточно.\r\nЕжедневно доставляют десятки тысяч цветов из Эквадора, Израиля, Кении, Голландии, Франции, Италии, ЮАР, а также весной и летом цветочную продукцию с разных регионов России.\r\n\r\n",
 "full": "Скидка 5% на букеты во всех офлайн магазинах сети (адреса магазинов можно найти на сайте компании)\r\n",
-"coords": "",
+"coords": [
+""
+],
 "adress": "",
 "additional_address": [],
 "social": {
@@ -111,26 +138,42 @@
 "inst": "https://www.instagram.com/moscvettorg_moscow/"
 },
 "images": [
-"https://cross.m24.ru/promocards/frontend/web/uploads/Pt5LipPNHOEMnLsFbPfWoODzoxIa3w-3.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/mqp-d7F4sUu8lmTHoKcwW8L5TlQtFkwn.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/WrYst1IlpeAtMZWTFerQpgpuTmat_3pN.jpg"
+"https://promo.m24.ru/adm/uploads/d-NeuQuQfvCrp8MLb2GvpmatBgbicmNe.jpg",
+"https://promo.m24.ru/adm/uploads/mWo4AnclDiIQFpjU3UDf7o1xY1Mvg2tI.jpg",
+"https://promo.m24.ru/adm/uploads/I2tEL26omiF7HnxYKmCWc_OwS-z58ci0.jpg",
+"https://promo.m24.ru/adm/uploads/0eyeq-v3kaeGuULuWAOr2CzjU_lYAc98.jpg"
 ]
 },
 {
 "id": 6,
-"logo": "https://cross.m24.ru/promocards/frontend/web/uploads/HviARwgDa17KB5OpB9ldSkkru4SanNZB.png",
+"logo": "https://promo.m24.ru/adm/uploads/0Aj7aCb5OWIrswZDmrV0JOBaAr2_nPFx.png",
 "category": {
 "id": 5,
-"title": "магазины"
+"title": "магазины",
+"status": 1,
+"full": null,
+"logo": null
 },
 "title": "ВЛАВКЕ",
 "until_action": null,
+"action_btn": null,
 "url": "https://lavkalavka.com/",
 "short": "ВЛАВКЕ -  магазины и кафе, где можно попробовать и купить фермерские продукты. \r\nКаждому свое! Мясоедам - стейки из мраморной говядины, веганам - продукты по технологии RAW, детям - натуральный мармелад из фруктов и ягод, аллергикам - хлеб без глютена и сырочки на кокосовом молоке. Пельмени и вареники своего производства ручной лепки, с тонким тестом и начинками из продуктов наших фермеров. \r\nВ кафе на Сивцевом Вражке и Патриарших - фирменные пирожки, ароматный кофе и много аппетитных и полезных блюд на завтрак и обед.\r\nМы выбрали эти продукты для себя и будем рады если они понравятся вам!\r\n",
 "full": "Скидка 10%",
-"coords": "",
-"adress": "",
-"additional_address": [],
+"coords": [
+"55.74703000632541",
+"37.58810518319385"
+],
+"adress": "Москва, Плотников переулок, 19/38 стр. 2\r\n",
+"additional_address": [
+{
+"title": "Москва, Сытинский пер., 7",
+"coords": [
+"55.76464517083809",
+"37.600817617983374"
+]
+}
+],
 "social": {
 "vk": null,
 "fb": "https://www.facebook.com/LavkaLavka/",
@@ -139,29 +182,44 @@
 "inst": "https://www.instagram.com/lavkalavka/"
 },
 "images": [
-"https://cross.m24.ru/promocards/frontend/web/uploads/tjbIbQ11fM3WvEn8WYOeAhOJLLxcjpbQ.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/lOBObr3WeODcDKebg5n1TvnjFT8DosIJ.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/fEnqvgn2dUYj9TFrAKXrlGJxwMCfsQ9n.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/_FTjxN2Kqj_hhl-3cQjJfgqCt2-cpGWb.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/lXMopt36MxD0D0luk4zU3EM1LHDh0zs4.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/drAV-PKnqcf1bICm2o-1stUTl4A8i6nt.jpg"
+"https://promo.m24.ru/adm/uploads/A9w6aXyMr9TIluRKsV7X998cIk99hLLy.jpg",
+"https://promo.m24.ru/adm/uploads/9BmuQsjjJUkOqf4GQX8NnDdefq8uiLDq.jpg",
+"https://promo.m24.ru/adm/uploads/PGEJ_-BIa9tKoBuoonCDWHGUD3TXFMl5.jpg",
+"https://promo.m24.ru/adm/uploads/EJZvIM2QQP6uK1DeDy2RAqbwtWQWpPmz.JPG",
+"https://promo.m24.ru/adm/uploads/XWI4Sh7TFHG0MyH7VFMGyZi1v_HXAVat.jpg",
+"https://promo.m24.ru/adm/uploads/VzDX1dW6gEsLV69UNex52dfS_zz5N_m7.jpg"
 ]
 },
 {
 "id": 7,
-"logo": "https://cross.m24.ru/promocards/frontend/web/uploads/6edrcsIs5qDVq2HDxv1rul6YaxP_p13S.png",
+"logo": "https://promo.m24.ru/adm/uploads/KWnnrb50ciT06KQkwMTlBndwJ0veD3br.png",
 "category": {
 "id": 6,
-"title": "красота и здоровье"
+"title": "красота и здоровье",
+"status": 1,
+"full": null,
+"logo": null
 },
 "title": "Сеть барбершопов APACHES",
 "until_action": "до 31.12.2021",
+"action_btn": null,
 "url": "https://apaches.pro/",
 "short": "Уникальность сети барбершопов Apaches Moscow заключается в том, что мы – не только про стрижки и бритье. У нас вы получите полноценный подход ко всему процессу поддержания внешнего вида успешного человека.\r\nВсе начинается с диагностики здоровья вашей кожи и волос – наши специалисты расскажут вам, как правильно следить за собой в домашних условиях, а также подберут необходимые средства индивидуально для вас.\r\nЭкспертной подготовкой барберов занимается сам Артем Апачек – владелец, барбер, преподаватель и основатель собственного бренда косметики для мужчин. Артем уже 17 лет\r\nв профессии, и точно знает, как все должно работать и развиваться.\r\nНаши клиенты – это мужчины, их отцы и сыновья – успешные жители Урбана, которые\r\nне понаслышке знают, что такое семья и традиции, и для которых внешний вид – важный атрибут на пути к реализации поставленных задач.\r\nМы не бонвиваны, не золотая молодёжь и не элита, а простые сэлф-мейд ребята, которых\r\nвы каждый день видите вокруг себя — стоя в пробке в соседней машине, в очереди за поп-корном в кинотеатре или за барной стойкой, в компании общих друзей.\r\n",
 "full": "Скидка на первый визит 20%, далее по карте скидка 10% на услуги и косметику при повторных визитах.",
-"coords": "",
-"adress": "ул. Крымский Вал, 4\r\nул. Сущёвский Вал, 22",
-"additional_address": [],
+"coords": [
+"55.73067458125967",
+"37.61105133485638"
+],
+"adress": "Москва, ул. Крымский Вал, 4\r\n",
+"additional_address": [
+{
+"title": "Москва, ул. Сущёвский Вал, 22",
+"coords": [
+"55.792463",
+"37.60496"
+]
+}
+],
 "social": {
 "vk": null,
 "fb": "https://www.facebook.com/apachesmoscow",
@@ -170,15 +228,204 @@
 "inst": "https://www.instagram.com/apaches_moscow/"
 },
 "images": [
-"https://cross.m24.ru/promocards/frontend/web/uploads/rzoSJfFwJl6y-Y4GhwrjMrEBiL9l-9_W.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/3wAgNc5d9vaIx9SrLo2NIRAUjZPUTGWB.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/IraKQ7S8111Y4mspYiCnk-S6MejjiZy0.jpg",
-"https://cross.m24.ru/promocards/frontend/web/uploads/eMi1UOwfGJ4ceF5vKr5XXszRNJ2guPDA.jpg"
+"https://promo.m24.ru/adm/uploads/4xLQzMl7GR3qYMH7y-LoRKSQ9jY6-_TG.jpg",
+"https://promo.m24.ru/adm/uploads/m-xydfB1qxyU9vyJYnIl_b_41qDbEcdN.jpg",
+"https://promo.m24.ru/adm/uploads/nO2WXoVvW0OL5y8JpuAuIJmT6lNGJzqd.jpg",
+"https://promo.m24.ru/adm/uploads/3K8ZiLvvJhDe_rCkpO1FHJP_KE3WIJVv.jpg",
+"https://promo.m24.ru/adm/uploads/9Ag-98g4XZjmGWFtdi61JTEArc-FPtVk.JPG"
+]
+},
+{
+"id": 8,
+"logo": "https://promo.m24.ru/adm/uploads/BYUO2Y0wphBDgReT0eoIWs1KzewJWkIn.png",
+"category": {
+"id": 5,
+"title": "магазины",
+"status": 1,
+"full": null,
+"logo": null
+},
+"title": "ГринДин",
+"until_action": "30.06.2021",
+"action_btn": null,
+"url": "https://www.GrinDin.ru/?fr=cbMsk24",
+"short": "ГринДин — здоровое питание с доставкой. Это может быть еда на весь день для всей семьи, диетические программы для похудения или вегетарианский рацион для тех, кто не ест животной пищи. В личном кабинете можно редактировать меню по своим предпочтениям. Все блюда герметично упакованы, возможна бесконтактная доставка\r\n \r\nНа программах питания Premium (2500-4200 руб./день) доступны индивидуальные меню, учёт аллергий, предпочтений и рекомендаций врача. В более демократичной линейке LITE (1500-2600 руб./день) можно самостоятельно редактировать меню, по своим индивидуальным предпочтениям. Фиксированные меню с доставкой через день доступны в бюджетной версии GrinDin START (1100-2050 руб./день)\r\n",
+"full": "Предъявителю карты лояльности предоставляется скидка в размере 10% на первый заказ по промокоду MSK24",
+"coords": [
+""
+],
+"adress": "",
+"additional_address": [],
+"social": {
+"vk": null,
+"fb": "https://www.facebook.com/GrinDin.ru",
+"tw": null,
+"youtube": null,
+"inst": "https://www.instagram.com/grindin_ru"
+},
+"images": [
+"https://promo.m24.ru/adm/uploads/YimYyX76xQ-XvYaifaRa2RKRgBjfjc8K.jpg",
+"https://promo.m24.ru/adm/uploads/XTceZAu5RWimuy1jo2HP4JhcfZruHrqo.jpg",
+"https://promo.m24.ru/adm/uploads/ohjLL2VfsXssTJ6juWpDqJLkfHv2PQHm.jpg",
+"https://promo.m24.ru/adm/uploads/UBEHTMnrQAzXqtmcfyqsmZ0I5J-Y0CiI.jpg",
+"https://promo.m24.ru/adm/uploads/ZRoOpyXdHHY_-QpLUoxoriJvJPIc8aIz.jpg"
+]
+},
+{
+"id": 9,
+"logo": "https://promo.m24.ru/adm/uploads/Ltm04x3RZrIdMplWLW9CoJPT9mTl4o6q.png",
+"category": {
+"id": 7,
+"title": "отдых",
+"status": 1,
+"full": null,
+"logo": null
+},
+"title": "Сафари-Парк Изумрудный Лес",
+"until_action": "02.06.2021",
+"action_btn": null,
+"url": "https://izumrudnyles.ru/safari-park/",
+"short": "Едва ли найдется другое времяпрепровождение, от которого испытают похожие чувства и взрослые, и дети, чем наблюдение и общение с животными. \r\nПарк создан для того, чтобы дать возможность наблюдать животных в среде обитания максимально приближенной к естественной. Вольеры парка весьма просторны, в них воссозданы микроклимат и рельеф местности естественной среды обитания того или иного животного.\r\nДетям и взрослым дается возможность погладить и покормить животных, сделать красивые фотографии, а также провести время в окружении реликтового леса.\r\nПрофессиональные экскурсоводы с удовольствием проведут познавательную экскурсию, расскажут подробно о каждом обитателе парка и поделятся секретами из жизни животных. В парке сейчас живут более 15 видов животных. Это альпаки, страусы, канадский волк, лиса, лани, зубры, яки, бизоны, северные олени, кенгуру, верблюды, дикобразы, ламы, обезьяны, сурикаты, шотландские коровы и т.д.\r\nВо время экскурсии вы сможете узнать много интересных фактов о каждом животном, а также покормить питомцев вкусным лакомством!\r\n",
+"full": "Cкидка 30% при предъявлении карты",
+"coords": [
+"56.130862",
+"36.504313"
+],
+"adress": "Московская область, Клинский муниципальный район, сельское поселение Нудольское, вблизи п. Нарынка, вл. \"Изумрудный лес\".\r\n",
+"additional_address": [],
+"social": {
+"vk": null,
+"fb": "https://www.facebook.com/izumrudnyles",
+"tw": null,
+"youtube": null,
+"inst": "https://www.instagram.com/izumrudnyles/"
+},
+"images": [
+"https://promo.m24.ru/adm/uploads/RUcHQaA9iYXBvueNc2HW5D9LCJsJ-zIV.jpg",
+"https://promo.m24.ru/adm/uploads/a-BGwmlovmCt2Q-8YZAbdsc3-M_ELM_u.jpg",
+"https://promo.m24.ru/adm/uploads/p3H96jTaLFMysdmdg_S_SfxxDl--aI7o.jpg",
+"https://promo.m24.ru/adm/uploads/3j2UfT1UvusUlDJH95ZY6Fs1GrL03Lcn.jpg",
+"https://promo.m24.ru/adm/uploads/wQ9WxLIPmYfYCyV59OCBfNk9R1aaM9Qd.jpg"
+]
+},
+{
+"id": 10,
+"logo": "https://promo.m24.ru/adm/uploads/IIbXlQnUXowD0n-HxZkhiolChT7eKgQj.jpg",
+"category": {
+"id": 5,
+"title": "магазины",
+"status": 1,
+"full": null,
+"logo": null
+},
+"title": "Ужин Дома",
+"until_action": null,
+"action_btn": null,
+"url": "https://uzhindoma.ru/",
+"short": "Готовить с «Ужин Дома» удобно и легко. Мы привозим набор на неделю, в котором вы найдете проверенные рецепты и свежие ингредиенты в нужных пропорциях. 20-30 мин и ваш вкусный ужин готов. \r\nКаждую неделю - новое меню. Выбирайте блюда, которые нравятся вам. Доставляем бесплатно по Москве, МО, Санкт-Петербургу и ЛО\r\n\r\nВам больше не нужно ломать голову. Мы создаем и тестируем рецепты для вас сами. Вам останется только приготовить и наслаждаться вкусом. \r\nВы сможете проводить больше времени с семьей, а готовка станет отдыхом и вдохновением.\r\n",
+"full": "Скидка 1000 рублей на первый заказ для новых клиентов по промокоду.\r\nДля получения скидки необходимо ввести промокод PODAROK при оформлении заказа на сайте  https://uzhindoma.ru/ \r\n",
+"coords": [
+""
+],
+"adress": "",
+"additional_address": [],
+"social": {
+"vk": "https://vk.com/uzhindoma",
+"fb": "https://www.facebook.com/uzhindoma",
+"tw": null,
+"youtube": null,
+"inst": "https://www.instagram.com/uzhin_doma/"
+},
+"images": [
+"https://promo.m24.ru/adm/uploads/KDRXiKkmAgXIkxdwpG1JXsqRQlQZG67Y.jpg",
+"https://promo.m24.ru/adm/uploads/0CpWJANfjpwUK69BKGqtDIPBrMFcbe32.jpg",
+"https://promo.m24.ru/adm/uploads/PM0Dg28Jdpr5c3P2eQZEKHY_MAYn654v.jpg",
+"https://promo.m24.ru/adm/uploads/Hgx906Xw7qlqQPIWsI4poBvdufevcdzI.jpg",
+"https://promo.m24.ru/adm/uploads/wVepK1JrVQhJS9vBuSgs7iWLFXd-vA3p.jpg",
+"https://promo.m24.ru/adm/uploads/yTwcHNYSbtXtxk4nLk3YrYGQOhkHGBqA.jpg"
+]
+},
+{
+"id": 11,
+"logo": "https://promo.m24.ru/adm/uploads/xAkxoeUNFD-rNUV4rHGKo4Uh9Rxex4Yh.png",
+"category": {
+"id": 5,
+"title": "магазины",
+"status": 1,
+"full": null,
+"logo": null
+},
+"title": "ЛитРес",
+"until_action": null,
+"action_btn": {
+"title": "Активация бонуса",
+"url": "https://www.litres.ru/?moskva24=&utm_source=moskva24&utm_campaign=kponline"
+},
+"url": "https://www.litres.ru",
+"short": "ЛитРес - крупнейший сервис электронных и аудиокниг в России и СНГ. \r\nКомпания ЛитРес является лидером на рынке лицензионных электронных книг в России и странах СНГ. \r\nАссортимент ЛитРес насчитывает более 1 000 000 электронных и аудиокниг на русском и иностранных языках, среди которых 48 000 бесплатных книг.\r\nКаждый месяц в каталоге сервиса появляется более 5 000 новых книг, некоторые одновременно или даже раньше печатных версий. \r\nС ЛитРес вся сила книг у вас в руках!\r\n\r\n",
+"full": "Получите книгу в подарок из специальной подборки, а также скидку 25% на всю литературу. Скидка действует в течение 3-х дней с момента активации на одну покупку и неограниченное количество книг в корзине. \r\n \r\n",
+"coords": [
+""
+],
+"adress": "",
+"additional_address": [],
+"social": {
+"vk": "https://vk.com/mylitres",
+"fb": "https://www.facebook.com/litres.ru",
+"tw": null,
+"youtube": null,
+"inst": "https://www.instagram.com/mylitres"
+},
+"images": null
+},
+{
+"id": 12,
+"logo": "https://promo.m24.ru/adm/uploads/00uUmc6Shqql5VfJ3EooHARtCz6RWITM.png",
+"category": {
+"id": 3,
+"title": "рестораны",
+"status": 1,
+"full": null,
+"logo": null
+},
+"title": "tacobar",
+"until_action": null,
+"action_btn": null,
+"url": "https://tacobar.ru/",
+"short": "tacobar - двухэтажный ресторан современной мексиканской кухни с двумя совершенно разными залами. На первом этаже атмосфера курорта, непосредственности и каникул. Спускаясь по каменной лестнице гость попадает в ночную Мексику - Кнорозов бар, названный в честь ученого, который первый в мире расшифровал письменность майя. В меню - впечатления о солнечной Мексике, приготовленные из локальных российских продуктов - тако, кесадилья, позоле, аквачили, гуакамоле, большие зеленые салаты с авокадо, кукурузой и тыквой, более десяти горячих блюд с особенными мексиканскими соусами и гарнирами. Экзотика, которая сразу становится родной и понятной.     ",
+"full": "24% скидка ",
+"coords": [
+"55.733219",
+"37.627786"
+],
+"adress": "Москва, ул. Пятницкая 59/19с5",
+"additional_address": [],
+"social": {
+"vk": null,
+"fb": null,
+"tw": null,
+"youtube": null,
+"inst": "https://www.instagram.com/tacobar.moscow/"
+},
+"images": [
+"https://promo.m24.ru/adm/uploads/dBnENxqniNpiXYgMGcjDDvJa0bgd-E9q.jpg",
+"https://promo.m24.ru/adm/uploads/v2Ge4Dkoqdw1alBNrBhzR3uMDfb36XUO.jpg",
+"https://promo.m24.ru/adm/uploads/YG33xR_1SgcgKi94nuHTmOXiylR1fX2f.jpg",
+"https://promo.m24.ru/adm/uploads/oBFlvZuKRg3D3pm4sTt09UEQgYyauHF7.jpg",
+"https://promo.m24.ru/adm/uploads/J3ubgffVSoUKiIWcMCTRoxQnwLuOrj4M.jpg",
+"https://promo.m24.ru/adm/uploads/ia_rp4Zg60txztGe4ounxEx7Or9DhmLj.jpg",
+"https://promo.m24.ru/adm/uploads/iiJeGmyKr4tJvffleK5SUTrQ8Gg45Rdn.jpg",
+"https://promo.m24.ru/adm/uploads/_Be9F0RV4ttFIcOrig5On2V7COCxciuJ.jpg",
+"https://promo.m24.ru/adm/uploads/4I5kfHAWJo3HAeOLZNZllvfLUCYKlBHu.jpg",
+"https://promo.m24.ru/adm/uploads/-8viNO4h03Yt06DaXriO1Fj-vI--H_jz.jpg",
+"https://promo.m24.ru/adm/uploads/XrrfHxyJ0Egf6rlGZ_kuCwxvlMSnFqAm.jpg",
+"https://promo.m24.ru/adm/uploads/twpsplq9NiUcGmPpA8vI_GIixLGgVjYP.jpg",
+"https://promo.m24.ru/adm/uploads/pFKLmr78jjn_fDydR_l7XtNHG63Ei38a.jpeg"
 ]
 }
 ],
 "pagination": {
-"totalCount": 6,
+"totalCount": 11,
 "currentPage": 1,
 "totalPages": 1
 }
