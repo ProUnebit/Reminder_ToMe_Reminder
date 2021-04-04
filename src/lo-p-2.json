@@ -422,10 +422,50 @@
 "https://promo.m24.ru/adm/uploads/twpsplq9NiUcGmPpA8vI_GIixLGgVjYP.jpg",
 "https://promo.m24.ru/adm/uploads/pFKLmr78jjn_fDydR_l7XtNHG63Ei38a.jpeg"
 ]
+},
+{
+"id": 13,
+"logo": "https://promo.m24.ru/adm/uploads/eoUZbC4toiISXwbUIs047qSSQYoI0Mqq.jpg",
+"category": {
+"id": 8,
+"title": "отели",
+"status": 1,
+"full": null,
+"logo": null
+},
+"title": "Космос",
+"until_action": "30.04.2021",
+"action_btn": null,
+"url": "https://www.hotelcosmos.ru/",
+"short": "Отель «Космос» на ВДНХ – это 1777 номеров различных категорий и более 15 залов для проведения мероприятия любого уровня: от презентаций и бизнес-завтраков до конгрессов, выставок и концертов. БКЗ \"Космос\" - один из самых больших концертных залов Москвы, вместимость 998 человек. \r\nОсобое преимущество отеля – возможность размещения более 3000 человек с питанием в пределах одного здания. \r\nНа территории гостиничного комплекса представлены все виды услуг для гостей: рестораны и кафе, фитнес-центр, прачечная, салон красоты, парковка, прокат автомобилей и спортивного инвентаря.  \r\n\"Космос\" - отель с самым большим номерным фондом в Москве. \r\nУдобно расположен в 2 минутах пешком от м.ВДНХ и в 10 минутах езды от центра. \r\nБеспрерывно работает с 1979 г.\r\n",
+"full": "Скидка 30% на проживание по промокоду Moscow24\r\nПромокод действителен только при бронировании на официальном сайте гостиницы «Космос»\r\n",
+"coords": [
+"55.8221",
+"37.6471"
+],
+"adress": "г. Москва, Проспект Мира, д. 150",
+"additional_address": [],
+"social": {
+"vk": "https://vk.com/cosmos_hotel",
+"fb": "https://www.facebook.com/Cosmos.Hotel.Moscow",
+"tw": null,
+"youtube": null,
+"inst": "https://www.instagram.com/hotel_cosmos_moscow/"
+},
+"images": [
+"https://promo.m24.ru/adm/uploads/zYeqCdSVuov4ufbcMptBuabgS8180FB_.jpg",
+"https://promo.m24.ru/adm/uploads/B0V07rWvLbUWUbxEm05omoTO4YYzC3mT.jpg",
+"https://promo.m24.ru/adm/uploads/0Iy6OgP1u0ifLtFyMo76ECua7oaNSKTE.jpg",
+"https://promo.m24.ru/adm/uploads/iavjk3536fcf9NAWZ24hPOPdLQibgySJ.jpg",
+"https://promo.m24.ru/adm/uploads/Mg6943jha-rYtM7V07iiK4GkbVrZTv07.jpg",
+"https://promo.m24.ru/adm/uploads/LhdrBkHJv-eSxITpKj_Ye-2KN41PZ-qn.jpg",
+"https://promo.m24.ru/adm/uploads/tKvZsnuwwL5iP26jypGDdhHSpIl3Gld6.JPG",
+"https://promo.m24.ru/adm/uploads/ikRSa1B_cP65uqY7hjduBhM1_aHEK1ND.JPG"
+]
 }
 ],
 "pagination": {
-"totalCount": 11,
+"totalCount": 12,
 "currentPage": 1,
 "totalPages": 1
 }
