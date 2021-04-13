@@ -1,14 +1,12 @@
 {
-  "user_info": {
-    "id": 3,
-    "first_name": "Сергей",
-    "last_name": "Песков",
-    "vk_id": null,
-    "ok_id": null,
-    "goo_id": null,
-    "ya_id": 162034045,
-    "fb_id": null,
-    "birthday": null,
-    "avatar": null
-  }
+  "id": 2,
+  "first_name": "Сергей",
+  "last_name": "Песков",
+  "vk_id": 15916358,
+  "ok_id": null,
+  "goo_id": null,
+  "ya_id": null,
+  "fb_id": null,
+  "birthday": "10.10",
+  "avatar": "https://sun1-98.userapi.com/s/v1/if1/PplKsUIR0Ts5g5dRT7eleAwTaZV-d16ADkrVfAonyJajAFGlLRPkPLiLhWgudLsGMX__X_Lx.jpg?size=50x0&quality=96&crop=479,109,1356,1356&ava=1"
 }
