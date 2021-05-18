@@ -1,7 +1,11 @@
 {
   "id": 2,
   "first_name": "Сергей",
+  "device": "Desktop",
+  "gpay": null,
   "last_name": "Песков",
+  "numb": "185-342-76",
+  "qr_code": "https://promo.m24.ru/adm/qrcodes/0e8b01dc29df0cbe7b39f4fbc0c6888a.png",
   "vk_id": 15916358,
   "ok_id": null,
   "goo_id": null,
