@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<g>
+	<path d="M24,4c11,0,20,9,20,20s-9,20-20,20S4,35,4,24S13,4,24,4z M24,0C10.7,0,0,10.7,0,24s10.7,24,24,24s24-10.7,24-24
+		S37.3,0,24,0z"/>
+	<g>
+		<g>
+			<ellipse transform="matrix(0.9231 -0.3845 0.3845 0.9231 -4.7387 10.5429)" cx="24" cy="17.1" rx="5.1" ry="5.1"/>
+		</g>
+		<g>
+			<path d="M24,24L24,24c-5.2,0-9.5,4.3-9.5,9.5l0,0c0,1.4,1.1,2.5,2.5,2.5h14c1.4,0,2.5-1.1,2.5-2.5l0,0C33.5,28.3,29.2,24,24,24z"
+				/>
+		</g>
+	</g>
+</g>
+</svg>
